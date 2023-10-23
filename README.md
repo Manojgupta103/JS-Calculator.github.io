@@ -1,4 +1,4 @@
-# Codsoft-web-dev-Level-1-Task-12-Calculator
+# Codsoft-web-dev-Level-1-Task-2-Calculator
 
 # Calculator Web Application
 
