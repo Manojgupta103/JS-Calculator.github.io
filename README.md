@@ -49,7 +49,8 @@ https://github.com/Manya103/LGMVIP-Web-Task-04-Calculator/assets/113758890/8eb37
 
 6. Enjoy using the calculator to solve arithmetic problems quickly and easily!
 
-
+**Portfolio:** Manoj R Gupta
+https://manoj-gupta-profile.vercel.app/
 ## License
 
 This calculator web application is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as needed.
